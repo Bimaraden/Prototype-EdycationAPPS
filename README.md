@@ -4,9 +4,7 @@ Edubim adalah projek eksperimental yang terinspirasi dari aplikasi ujian yang di
 
 ✅ Antarmuka ujian yang sederhana dan intuitif
 
-✅ Timer untuk membatasi waktu pengerjaan
-
-✅ Berbagai tipe soal (pilihan ganda, isian singkat, dll)
+✅ penggunaan tipe soal pilihan ganda agar simpel
 
 ✅ Hasil ujian langsung (tanpa penyimpanan)
 
